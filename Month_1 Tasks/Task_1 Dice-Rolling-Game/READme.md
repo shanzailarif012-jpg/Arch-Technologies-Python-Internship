@@ -27,7 +27,7 @@ whether they would like to roll again.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shanzailarif012-jpg/dice-rolling-game.git
+   git clone https://github.com/shanzailarif012-jpg/Arch-Technologies-Python-Internship/tree/main/Month_1%20Tasks/Task_1%20Dice-Rolling-Game
    ```
 2. Move into the project folder:
    ```bash
