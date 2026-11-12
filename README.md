@@ -12,20 +12,36 @@ Tasks are assigned monthly, and every task lives in its own folder with its code
 | Task 1 | [Dice Rolling Game](Month_1%20Tasks/Task_1%20Dice-Rolling-Game) | ✅ Completed |
 | Task 2 | [To-Do List Application](Month_1%20Tasks/Task_2%20To-Do-List-Application) | ✅ Completed |
 
+### Month 2
+
+| Task | Title | Status |
+|---|---|---|
+| Task 3 | [Number Guessing Game](Month_2%20Tasks/Task_3%20Number%20Guessing%20Game) | ✅ Completed |
+| Task 4 | [ATM Simulation](Month_2%20Tasks/Task_4%20ATM%20Simulation) | ✅ Completed |
+
 ## Repository Structure
 
 ```
 Arch-Technologies-Python-Internship/
 ├── README.md
-└── Month_1 Tasks/
-    ├── Task_1 Dice-Rolling-Game/
-    │   ├── main.py
-    │   ├── READme.md
-    │   └── Screenshots/
-    └── Task_2 To-Do-List-Application/
-        ├── main.py
-        ├── READme.md
-        └── Screenshots/
+├── Month_1 Tasks/
+│   ├── Task_1 Dice-Rolling-Game/
+│   │   ├── main.py
+│   │   ├── READme.md
+│   │   └── Screenshots/
+│   └── Task_2 To-Do-List-Application/
+│       ├── main.py
+│       ├── READme.md
+│       └── Screenshots/
+└── Month_2 Tasks/
+    ├── Task_3 Number Guessing Game/
+    │   ├── number_guessing_game.py
+    │   ├── README.md
+    │   └── screenshots/
+    └── Task_4 ATM Simulation/
+        ├── atm_simulation.py
+        ├── README.md
+        └── screenshots/
 ```
 
 ## Tech Stack
