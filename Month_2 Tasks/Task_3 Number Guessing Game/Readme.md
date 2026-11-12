@@ -4,7 +4,7 @@ A simple command-line Number Guessing Game built with Python.
 The computer picks a random number between 1 and 100, and the player keeps guessing until they get it right. After every guess, the game gives a hint: **Too High** or **Too Low**.
 
 > **Internship:** Arch Technologies, Python Development (Month 2, Task 3)
-> **Author:** Muhammad Shanzail ([@dev_shanzail](https://github.com/dev_shanzail))
+> **Author:** Muhammad Shanzail ([@dev_shanzail](https://github.com/shanzailarif012-jpg))
 
 ---
 
@@ -87,7 +87,6 @@ Play Again?? (yes/no): no
 GoodBye
 ```
 
-*(Add your own screenshots here: `![Gameplay](screenshots/gameplay.png)`)*
 
 ---
 
