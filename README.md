@@ -10,7 +10,7 @@ Tasks are assigned monthly, and every task lives in its own folder with its code
 | Task | Title | Status |
 |---|---|---|
 | Task 1 | [Dice Rolling Game](Month_1%20Tasks/Task_1%20Dice-Rolling-Game) | ✅ Completed |
-| Task 2 | Coming soon | 🚧 In Progress |
+| Task 2 | [To-Do List Application](Month_1%20Tasks/Task_2%20To-Do-List-Application) | ✅ Completed |
 
 ## Repository Structure
 
@@ -22,7 +22,10 @@ Arch-Technologies-Python-Internship/
     │   ├── main.py
     │   ├── READme.md
     │   └── Screenshots/
-    └── Task_2 (in progress)
+    └── Task_2 To-Do-List-Application/
+        ├── main.py
+        ├── READme.md
+        └── Screenshots/
 ```
 
 ## Tech Stack
