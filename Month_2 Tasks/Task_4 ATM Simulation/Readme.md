@@ -48,7 +48,7 @@ Month_2 Tasks/
    ```
 2. Clone the repository and open the project folder:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/shanzailarif012-jpg/Arch-Technologies-Python-Internship/tree/main/Month_2%20Tasks/Task_4%20ATM%20Simulation
    cd "Month_2 Tasks/Task_4 ATM Simulation"
    ```
 3. Run the program:
@@ -172,7 +172,7 @@ Creates the `ATM` object, passes it to `ATMController` and starts the program wi
 ## 👨‍💻 Author
 
 **Muhammad Shanzail**
-GitHub: [dev_shanzail](https://github.com/dev_shanzail)
+GitHub: [dev_shanzail](https://github.com/shanzailarif012-jpg)
 
 ---
 
