@@ -47,7 +47,7 @@ Month_2 Tasks/
    ```
 2. Clone the repository and open the project folder:
    ```bash
-   git clone <git clone https://github.com/shanzailarif012-jpg/Arch-Technologies-Python-Internship.git>
+   git clone https://github.com/shanzailarif012-jpg/Arch-Technologies-Python-Internship/tree/main/Month_2%20Tasks/Task_3%20Number%20Guessing%20Game
    cd "Month_2 Tasks/Task_3_Number_Guessing_Game"
    ```
 3. Run the game:
