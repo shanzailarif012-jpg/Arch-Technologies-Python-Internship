@@ -27,7 +27,7 @@ tasks have been completed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shanzailarif012-jpg/Arch-Technologies-Python-Internship.git
+   git clone https://github.com/shanzailarif012-jpg/Arch-Technologies-Python-Internship/tree/main/Month_1%20Tasks/Task_2%20To-Do-List-Application
    ```
 2. Move into the task folder:
    ```bash
