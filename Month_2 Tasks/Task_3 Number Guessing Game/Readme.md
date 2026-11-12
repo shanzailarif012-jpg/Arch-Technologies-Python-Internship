@@ -122,7 +122,7 @@ GoodBye
 ## 👨‍💻 Author
 
 **Muhammad Shanzail**
-GitHub: [dev_shanzail](https://github.com/dev_shanzail)
+GitHub: [dev_shanzail](https://github.com/shanzailarif012-jpg)
 
 ---
 
